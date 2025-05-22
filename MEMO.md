@@ -9,3 +9,6 @@ cd /home/couponkun_app/backend
 nohup java -jar -Duser.timezone=GMT+9 couponkun_management_itcc.jar --spring.profiles.active=prod &
 nohup java -jar -Duser.timezone=GMT+9 couponkun_app_itcc.jar --spring.profiles.active=prod &
 （具体可以参考【参考資料/システム情報.xlsx】）
+
+
+https://chatgpt.com/share/682ed737-dbb4-8011-b57e-26c5ee2804e0
