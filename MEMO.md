@@ -12,3 +12,4 @@ nohup java -jar -Duser.timezone=GMT+9 couponkun_app_itcc.jar --spring.profiles.a
 
 
 https://chatgpt.com/share/682ed737-dbb4-8011-b57e-26c5ee2804e0
+0x4A82C52b7920344fdBE936b0D0dc7A170Db8253f
